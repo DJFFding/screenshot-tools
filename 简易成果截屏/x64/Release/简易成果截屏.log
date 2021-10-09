@@ -1,0 +1,13 @@
+﻿  main.cpp
+f:\c++11\简历项目\简易成果截屏\简易成果截屏\main.cpp(518): warning C4311: “类型强制转换”: 从“HCURSOR”到“LONG”的指针截断
+f:\c++11\简历项目\简易成果截屏\简易成果截屏\main.cpp(518): warning C4302: “类型强制转换”: 从“HCURSOR”到“LONG”截断
+f:\c++11\简历项目\简易成果截屏\简易成果截屏\main.cpp(530): warning C4311: “类型强制转换”: 从“HCURSOR”到“LONG”的指针截断
+f:\c++11\简历项目\简易成果截屏\简易成果截屏\main.cpp(530): warning C4302: “类型强制转换”: 从“HCURSOR”到“LONG”截断
+f:\c++11\简历项目\简易成果截屏\简易成果截屏\main.cpp(542): warning C4311: “类型强制转换”: 从“HCURSOR”到“LONG”的指针截断
+f:\c++11\简历项目\简易成果截屏\简易成果截屏\main.cpp(542): warning C4302: “类型强制转换”: 从“HCURSOR”到“LONG”截断
+  正在生成代码
+  2 of 115 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  简易成果截屏.vcxproj -> F:\C++11\简历项目\简易成果截屏\x64\Release\简易成果截屏.exe

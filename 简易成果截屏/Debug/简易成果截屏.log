@@ -1,0 +1,4 @@
+﻿  about_window.cpp
+f:\c++11\简历项目\简易成果截屏\简易成果截屏\about_window.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+f:\c++11\简历项目\简易成果截屏\简易成果截屏\about_window.cpp(16): warning C4101: “win_rect”: 未引用的局部变量
+  简易成果截屏.vcxproj -> F:\C++11\简历项目\简易成果截屏\Debug\简易成果截屏.exe
